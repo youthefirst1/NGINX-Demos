@@ -1,4 +1,4 @@
-FROM quay.io/infraresearch/nginx:1.15.3-alpine
+FROM quay.io/infraresearch/nginx:1.14.2-alpine
 #FROM quay.io/infraresearch/nginx:1.19.2-alpine 
 
 # We need to give all user groups write permission on folder /var/cache/nginx/ and file /var/run/nginx.pid.
