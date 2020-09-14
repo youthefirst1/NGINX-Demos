@@ -1,4 +1,4 @@
-FROM quay.io/bitnami/nginx:1.17.9
+FROM quay.io/api-platform/nginx
 #FROM nginx:1.19.2-alpine
 
 # We need to give all user groups write permission on folder /var/cache/nginx/ and file /var/run/nginx.pid.
