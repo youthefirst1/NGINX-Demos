@@ -1,4 +1,4 @@
-FROM nginx:1.15.2-alpine
+FROM nginx:1.9.10
 
 # We need to give all user groups write permission on folder /var/cache/nginx/ and file /var/run/nginx.pid.
 # So users with random uid will be able to run NGINX.
