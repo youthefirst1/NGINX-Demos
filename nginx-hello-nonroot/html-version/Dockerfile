@@ -1,4 +1,4 @@
-FROM quay.io/infraresearch/nginx:1.14.2-alpine
+#FROM quay.io/infraresearch/nginx:1.14.2-alpine
 #FROM quay.io/infraresearch/nginx:1.19.2-alpine
 #1.14.2-alpine=2 High-level vulnerabilities
 #1.19.2-alpine=PASSED
