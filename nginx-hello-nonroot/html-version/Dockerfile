@@ -1,5 +1,5 @@
 #FROM quay.io/infraresearch/nginx:1.14.2-alpine
-#FROM quay.io/infraresearch/nginx:1.19.2-alpine
+FROM quay.io/infraresearch/nginx:1.19.2-alpine
 #1.14.2-alpine=2 High-level vulnerabilities
 #1.19.2-alpine=PASSED
 # We need to give all user groups write permission on folder /var/cache/nginx/ and file /var/run/nginx.pid.
